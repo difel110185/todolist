@@ -1,0 +1,11 @@
+.todoList {
+    border: 1px solid hotpink;
+    padding: 40px 20px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+.todoList h1 {
+    color: green;
+}
